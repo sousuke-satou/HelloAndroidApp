@@ -9,12 +9,13 @@ android:paddingBottom="16dp"
 android:paddingLeft="16dp"
 android:paddingRight="16dp"
 android:paddingTop="16dp"
-    tools:context="com.example.vic72.myapplication.MainActivity">
+tools:context="com.example.vic72.myapplication.MainActivity">
 
 
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello Android!"/>
-    </LinearLayout>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Hello Android!"
+    android:textSize="40sp"/>
+</LinearLayout>
